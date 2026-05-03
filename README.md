@@ -67,7 +67,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 [Click here to view deployed project](https://your-deployment-link.com)
+👉 [Click here to view deployed project]https://finflow-project-one.vercel.app
 
 ---
 
